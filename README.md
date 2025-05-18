@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<!--
-**prathmbavge/prathmbavge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/prathmeshbavge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://twitter.com/PrathmB2005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br />
+
+<h1 align="center">Hey there, I’m Prathmesh Bavge 👋</h1>
+
+---
+
+## 👩‍💻 About Me
+I’m a **second-year Information Technology student** at Pune Institute of Computer Technology, Pune, India.  
+- 🌱 **Learning:** Next.js, Three.js, advanced React patterns, and scalable backend architectures with Python Flask.  
+- ⚡ **In my free time:** I enjoy competitive programming, reading tech blogs, and scripting YouTube Shorts.
+
+---
+
+## 🛠 Languages & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+</div>
+
+---
+
+## 🚀 Projects & Collaborations
+
+### TechBash Notes App  
+• Built with HTML, CSS & JavaScript; migrating to Vite-React with Three.js, GSAP & Glassmorphism for enhanced UI/UX.
+
+
+#### Key Collaboration  
+- **Cloud Minds Team**: With *Nawaz Sayyad* & *Mayuresh Muluk*, secured 3rd prize at the AWS Ideathon for an LLM fine-tuning prototype (SFLLM).
+
+---
+
+## 🎓 Certifications & Achievements
+- **Diploma**, VAPM Latur – Completed 2024  
+- **Cisco Introduction to Data Science** – Data Analytics & AI/ML fundamentals  
+- **INFOSYS-SPRINGBOARD**: Basics of Python  
+- **LinkedIn Learning**: Project Management Foundations  
+- Multiple hackathon & workshop participations (Innovation Foundation, RAILMIT, DEVTOWN, INNOTECH)
+
+---
+
+## 🔥 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&mode=daily&hide_border=false" alt="GitHub Streak" height="180" />
+</div>
+
+---
+
+_“Striving to build solutions that blend innovation with impact.”_
