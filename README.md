@@ -68,8 +68,8 @@ I’m a **second-year Information Technology student** at Pune Institute of Comp
 
 ## 🔥 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&mode=daily&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmbavge&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=prathmbavge&theme=dark&mode=daily&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
 ---
