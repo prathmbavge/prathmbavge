@@ -85,3 +85,33 @@ I’m a **second-year Information Technology student** at Pune Institute of Comp
 ---
 
 _“Striving to build solutions that blend innovation with impact.”_
+
+# simple_linear_regression_advertising.py
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# 1️⃣ Load dataset (ensure 'Advertising.csv' is in the same folder)
+data = pd.read_csv("Advertising.csv")
+
+# Use TV as predictor and Sales as target
+X = data[['TV']]      # feature must be 2D
+y = data['Sales']     # target
+
+# 2️⃣ Fit simple linear regression
+model = LinearRegression()
+model.fit(X, y)
+
+print("Intercept:", model.intercept_)
+print("Slope:", model.coef_[0])
+print(f"R² score: {model.score(X, y):.3f}")
+
+# 3️⃣ Plot scatter + regression line
+plt.figure(figsize=(7,5))
+plt.scatter(X, y, color='blue', label='Data Points')
+plt.plot(X, model.predict(X), color='red', linewidth=2, label='Regression Line')
+plt.xlabel('TV Advertising Budget ($1000s)')
+plt.ylabel('Sales (in 1000s units)')
+plt.title('Simple Linear Regression: TV vs Sales')
+plt.legend()
+plt.show()
