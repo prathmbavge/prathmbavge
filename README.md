@@ -21,7 +21,7 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **second-year Information Technology student** at Pune Institute of Computer Technology, Pune, India.  
+I’m a **Third-year Information Technology student** at Pune Institute of Computer Technology, Pune, India.  
 - 🌱 **Learning:** Next.js, Three.js, advanced React patterns, and scalable backend architectures with Python Flask.  
 - ⚡ **In my free time:** I enjoy competitive programming, reading tech blogs, and scripting YouTube Shorts.
 
