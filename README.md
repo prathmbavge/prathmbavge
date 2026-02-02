@@ -93,23 +93,6 @@ Focused on **cost-efficient developer workflows**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmbavge&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prathmbavge&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmbavge&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
@@ -121,11 +104,6 @@ Focused on **cost-efficient developer workflows**
 
 ---
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathmbavge&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
